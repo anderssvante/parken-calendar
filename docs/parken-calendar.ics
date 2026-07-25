@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Parken Stadion Kalender//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parken Stadion
+X-WR-TIMEZONE:Europe/Copenhagen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:1-202607261600@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20260726T160000
+DTEND;TZID=Europe/Copenhagen:20260726T180000
+SUMMARY:F.C. København - Lyngby Boldklub
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/f-c-kobenhavn-lyngby-boldklub-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2-202607291900@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20260729T190000
+DTEND;TZID=Europe/Copenhagen:20260729T210000
+SUMMARY:F.C. København - FC Polissya
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/f-c-kobenhavn-fc-polissya
+END:VEVENT
+BEGIN:VEVENT
+UID:3-202608311900@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20260831T190000
+DTEND;TZID=Europe/Copenhagen:20260831T210000
+SUMMARY:F.C. København - Sønderjyske Fodbold
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/f-c-kobenhavn-sonderjyske-fodbold
+END:VEVENT
+BEGIN:VEVENT
+UID:4-202609032000@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20260903T200000
+DTEND;TZID=Europe/Copenhagen:20260903T220000
+SUMMARY:F.C. København - FC Nordsjælland
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/f-c-kobenhavn-fc-nordsjaelland-6
+END:VEVENT
+BEGIN:VEVENT
+UID:5-202609271800@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20260927T180000
+DTEND;TZID=Europe/Copenhagen:20260927T200000
+SUMMARY:Danmark - Wales (UEFA Nations League)
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/danmark-wales-uefa-nations-league-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6-202610012045@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20261001T204500
+DTEND;TZID=Europe/Copenhagen:20261001T224500
+SUMMARY:Danmark - Portugal
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/danmark-portugal-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7-202610101800@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20261010T180000
+DTEND;TZID=Europe/Copenhagen:20261010T200000
+SUMMARY:APHACA
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/aphaca
+END:VEVENT
+BEGIN:VEVENT
+UID:8-202611172045@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20261117T204500
+DTEND;TZID=Europe/Copenhagen:20261117T224500
+SUMMARY:Danmark - Norge
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/danmark-norge-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:9-202707032000@parkenstadion.dk
+DTSTAMP:20260725T000000Z
+DTSTART;TZID=Europe/Copenhagen:20270703T200000
+DTEND;TZID=Europe/Copenhagen:20270703T220000
+SUMMARY:Benjamin Hav
+LOCATION:Parken Stadion\, Per Henrik Lings Allé 2\, 2100 København Ø
+URL:https://www.parkenstadion.dk/begivenheder/benjamin-hav
+END:VEVENT
+END:VCALENDAR
